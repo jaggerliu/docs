@@ -5,5 +5,5 @@
 | 工 |  |
 | asd |  |
 
-![](/assets/业务架构.png)
+![](../.gitbook/assets/ye-wu-jia-gou.png)
 
